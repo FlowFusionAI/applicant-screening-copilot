@@ -1,0 +1,58 @@
+JUNIOR AI ENGINEER
+Brightvale Labs — Austin, TX (hybrid, 3 days on-site) | Full-time
+Posted: June 2026 | Req #2026-114
+
+ABOUT BRIGHTVALE
+Brightvale Labs builds AI-assisted workflow tools for mid-market logistics and
+healthcare companies. We're a 40-person, Series A company. Our products turn
+messy operational documents — invoices, intake forms, dispatch logs — into
+structured, auditable decisions.
+
+THE ROLE
+You'll join a six-person product engineering team and build LLM-powered
+features end to end: prompt design, structured outputs, retrieval pipelines,
+and the automated evals that keep all of it honest. This is a hands-on
+engineering role for someone early in their career who has already shipped
+something real with LLM APIs — professionally, in an internship, or as a
+serious side project.
+
+WHAT YOU'LL DO
+- Design and iterate on prompts and structured-output schemas for extraction,
+  classification, and scoring features
+- Build retrieval-augmented generation (RAG) pipelines: chunking, embeddings,
+  vector search, reranking
+- Write and maintain automated evals; catch quality regressions before
+  customers do
+- Ship TypeScript and Python services that wrap LLM APIs (OpenAI, Anthropic)
+  behind clean, tested interfaces
+- Instrument token usage, latency, and cost; propose and validate cheaper
+  model routings
+- Participate in code review and pair regularly with senior engineers
+
+WHAT WE'RE LOOKING FOR
+- 0–2 years of professional software engineering experience (internships and
+  substantial personal projects count)
+- Strong Python or TypeScript; comfort with both is a plus
+- Hands-on experience calling LLM APIs and handling their failure modes:
+  hallucination, format drift, prompt injection
+- Familiarity with embeddings and vector stores (pgvector, Pinecone,
+  Weaviate, or similar)
+- A testing mindset: you don't ship prompt changes without a way to measure
+  whether they helped
+- Working knowledge of Git, CI, and at least one cloud platform
+
+NICE TO HAVE
+- Vercel AI SDK, LangChain, or LlamaIndex in a real project
+- Zod or Pydantic for schema validation
+- Fine-tuning experience (LoRA/QLoRA) or eval frameworks (promptfoo,
+  Braintrust)
+- Open-source contributions or shipped side projects we can look at
+- SQL and basic data modeling
+
+COMPENSATION & BENEFITS
+$95,000–$120,000 base + equity, 401(k) match, health/dental/vision, $1,500
+annual learning budget, relocation assistance available.
+
+Brightvale Labs is an equal opportunity employer. We evaluate applicants on
+skills and experience alone, and we're building our screening process to
+reflect that.

@@ -1,0 +1,47 @@
+RACHEL S. KIM, Ph.D.  (she/her)
+Seattle, WA · rkim.nlp@gmail.com · (206) 555-0118
+scholar.google.com/citations?user=rskim-nlp
+
+EDUCATION
+
+Ph.D., Computational Linguistics, University of Washington, 2016
+  Dissertation: "Discourse-aware coreference resolution with structured
+  prediction"
+B.A., Linguistics, Seoul National University, 2009
+
+RESEARCH & PROFESSIONAL EXPERIENCE
+
+Independent NLP Consultant (part-time, ~15 hrs/week)      Mar 2025 – present
+  - Prompt-evaluation design and annotation guidelines for two early-stage
+    startups (contract): defined rubrics, inter-annotator agreement
+    protocols, and failure taxonomies for LLM output review
+  - Self-directed retraining on post-2021 tooling: built a small RAG
+    question-answering project over my own publication corpus (OpenAI API,
+    chromadb)
+
+Career break (family caregiving)                          Aug 2021 – Feb 2025
+
+Senior Research Scientist, Meridian Research Institute,   2016 – Aug 2021
+Seattle, WA
+  - Led a four-person NLP group: information-extraction pipelines using
+    CRFs, BiLSTM-CRF, and (from 2019) fine-tuned BERT models
+  - Shipped a clinical-notes de-identification system (F1 0.94) adopted by
+    two hospital networks
+  - 14 peer-reviewed publications (ACL, EMNLP, NAACL); 2,100+ citations
+  - Supervised annotation teams; designed evaluation methodology for every
+    system the group shipped
+
+SELECTED PUBLICATIONS
+
+- Kim, R., et al. "Robust de-identification of clinical text across
+  institutions." JAMIA, 2021.
+- Kim, R., & Osei, T. "Sample-efficient fine-tuning for low-resource IE."
+  EMNLP, 2020.
+- Kim, R. "Discourse-aware coreference beyond the sentence." ACL, 2017.
+
+SKILLS
+
+Python (10+ years), PyTorch (through 2021), spaCy, scikit-learn, SQL ·
+Evaluation design, annotation methodology, statistics · Currently updating
+hands-on skills with post-2021 LLM tooling (RAG frameworks, agent SDKs)
+through personal projects

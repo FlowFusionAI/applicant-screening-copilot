@@ -1,0 +1,32 @@
+JAKE MORRISON
+Austin, TX 78704 | 512.555.0198 | jake.morrison.dev@gmail.com | github.com/jmorrison-dev
+
+PROFESSIONAL EXPERIENCE
+
+BACKEND ENGINEER | FREIGHTLINE LOGISTICS | AUSTIN, TX | JUNE 2023 - PRESENT
+- Design and operate Node.js/TypeScript microservices processing 2M+ shipment
+  events per day (PostgreSQL, Redis, Kafka)
+- Cut p99 latency on the tracking API from 1.8s to 240ms by redesigning the
+  event-aggregation pipeline
+- On-call rotation for 12 production services; wrote the team's incident
+  runbook
+- Mentor one junior engineer
+
+SOFTWARE ENGINEER I | FREIGHTLINE LOGISTICS | AUSTIN, TX | AUG 2021 - JUNE 2023
+- Built REST APIs for the customer portal (Express, PostgreSQL)
+- Migrated legacy cron jobs to a queue-based system (BullMQ)
+
+PROJECTS
+
+DISPATCH COPILOT (SIDE PROJECT, 2025-2026)
+Slack chatbot that answers dispatcher questions over Freightline's internal
+wiki using the OpenAI API. ~40 weekly internal users. Retrieval is keyword
+search over page titles (no embeddings); responses occasionally cite the
+wrong page. No automated testing of answer quality yet - on my list.
+
+EDUCATION
+B.S. COMPUTER SCIENCE, UNIVERSITY OF TEXAS AT SAN ANTONIO, 2021
+
+SKILLS
+TypeScript, Node.js, PostgreSQL, Kafka, Redis, Docker, AWS (ECS, RDS),
+GitHub Actions. Python: basic scripting. OpenAI API: hobby-level.

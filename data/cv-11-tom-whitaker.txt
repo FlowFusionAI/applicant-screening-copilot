@@ -1,0 +1,40 @@
+TOM WHITAKER
+Denver, CO | (720) 555-0163 | tom.whitaker.sre@gmail.com
+linkedin.com/in/tomwhitaker-sre
+
+SENIOR DEVOPS ENGINEER seeking transition into AI engineering
+
+EXPERIENCE
+
+Senior DevOps Engineer — Cairn Software (B2B SaaS), Denver, CO
+Jan 2024 – Present
+* Own Kubernetes platform (EKS) for 40 production services; 99.95% uptime
+  over the last 12 months
+* Built and operate the ML team's model-serving infrastructure (Triton,
+  GPU node autoscaling, canary deploys) — infrastructure only; I did not
+  build the models
+* Weekend project turned internal tool: GPT-4 Slack bot answering runbook
+  questions, ~200 weekly users. No eval process; quality is "vibes and
+  complaints," which is exactly what I want to learn to fix
+* Terraform for all infra; cut AWS spend 22% in 2025
+
+DevOps Engineer — Cairn Software, Denver, CO
+Mar 2021 – Dec 2023
+* CI/CD pipelines (GitHub Actions), Prometheus/Grafana observability stack
+
+Systems Administrator — Vantage Credit Union, Denver, CO
+Jun 2020 – Mar 2021
+
+EDUCATION & CERTIFICATIONS
+
+B.S. Information Systems, Colorado State University, 2019
+CKA — Certified Kubernetes Administrator (2022)
+AWS Solutions Architect Associate (2021)
+fast.ai Practical Deep Learning for Coders (completed 2025)
+DeepLearning.AI LLM Specialization (completed Feb 2026)
+
+SKILLS
+
+Terraform, Kubernetes, AWS, Docker, GitHub Actions, Prometheus/Grafana ·
+Python (automation-level), Bash · PyTorch (coursework only) · Postgres
+administration

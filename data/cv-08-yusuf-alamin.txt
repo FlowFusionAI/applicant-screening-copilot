@@ -1,0 +1,41 @@
+YUSUF AL-AMIN
+Minneapolis, MN — yusuf.builds@protonmail.com — github.com/yusufbuilds
+612-555-0129 — DOB: 03/08/2003
+
+Hi — I'm a self-taught programmer. No degree, no full-time employer yet.
+Judge the code, not the paper.
+
+WHAT I'VE BUILT
+
+forgeagent — github.com/yusufbuilds/forgeagent
+Open-source agent framework for local LLMs. 1,100+ GitHub stars, 14 outside
+contributors. Tool-calling loop, sandboxed code execution, streaming,
+structured outputs via JSON schema. Python. I review every PR.
+
+Fine-tuning: QLoRA fine-tune of Llama-3.1-8B on a single RTX 4090, trained
+on 40k structured-extraction examples I generated and cleaned myself. Beats
+gpt-4o-mini on my held-out eval set (methodology, dataset, and eval script
+published on Hugging Face — check my profile, don't take my word for it).
+
+ragbench-mini — tiny RAG eval harness, 90 test cases across 6 failure
+categories. Used as the test suite by three other open-source projects.
+
+FREELANCE (2024 – present)
+Six completed Upwork contracts building chatbots and document-automation
+tools for small businesses (~$28k total, 5.0 rating). Most recent: intake-
+form extraction for an immigration law firm — OpenAI API, Pydantic
+validation, human-review queue for low-confidence fields.
+
+HOW I LEARNED
+fast.ai, Karpathy's Neural Networks: Zero to Hero, reading papers, building
+in public since 2022.
+
+SKILLS
+Python (strong), PyTorch, Hugging Face ecosystem, llama.cpp, some
+TypeScript, SQLite, Docker.
+
+Honest gaps: never worked on a team bigger than two, never done
+professional code review outside my own repo, no cloud infra at scale.
+
+EDUCATION
+Roosevelt High School, Minneapolis — diploma, 2021

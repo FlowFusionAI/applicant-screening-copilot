@@ -1,0 +1,34 @@
+Anastasia Volkova
+Frontend Engineer · Brooklyn, NY
+anastasia.volkova.ui@gmail.com · (929) 555-0144 · volkova.dev
+Work authorization: permanent resident (green card)
+
+EXPERIENCE
+
+Senior Frontend Engineer · Meridian Health (telehealth) · New York, NY
+2024 – present
+– Built the AI visit-summary experience: streaming chat UI on the Vercel
+  AI SDK (useChat + useCompletion), optimistic updates, retry/abort states
+– Shipped the clinician prompt-feedback widget; thumbs-up/down data now
+  feeds the ML team's fine-tuning queue
+– React 19, Next.js App Router, TypeScript strict mode; own the design
+  system's AI-component patterns
+
+Frontend Engineer · Meridian Health · New York, NY
+2022 – 2024
+– Rebuilt patient intake flows; WCAG 2.2 AA across the patient portal
+– Cut LCP on the booking page from 4.1s to 1.6s
+
+Frontend Developer · Bitwave Agency · Moscow, Russia
+2020 – 2022
+– Client sites and dashboards (React, Vue)
+
+EDUCATION
+
+B.S. Applied Informatics, HSE University, Moscow — 2020
+
+SKILLS
+
+TypeScript, React, Next.js (expert) · Vercel AI SDK client hooks ·
+Tailwind, Radix · Playwright, Vitest · Python: beginner (working through
+a backend course now) · no hands-on with embeddings, RAG, or evals yet

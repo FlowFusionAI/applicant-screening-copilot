@@ -1,0 +1,37 @@
+PRIYA SHARMA (she/her)
+San Francisco, CA · (415) 555-0132 · priya.sharma.dev@gmail.com
+linkedin.com/in/priyasharma-dev · github.com/priyabuilds
+
+SUMMARY
+AI engineer with ~1.5 years of production LLM experience: structured
+outputs, RAG, and eval pipelines at an early-stage startup. I like features
+that can prove they work.
+
+EXPERIENCE
+
+AI Engineer — Coppervine (YC W25), San Francisco, CA
+Feb 2025 – Present
+- Own the structured-output extraction pipeline (Vercel AI SDK
+  generateObject + Zod) parsing ~12,000 vendor invoices/month; reduced
+  format-drift failures from 7% to 0.4% via schema tightening and
+  validation-retry loops
+- Built the eval suite in promptfoo: 340 hand-labelled cases, runs in CI,
+  blocks deploys on regression
+- Shipped RAG over customer contracts: pgvector hybrid search + Cohere
+  reranking, p95 retrieval latency 210ms
+- Cut monthly token spend 38% by routing simple extractions to gpt-4o-mini
+  and compressing few-shot prompts
+
+AI Engineering Intern — Signalpost AI, Remote
+May 2024 – Aug 2024
+- Prototyped support-ticket deduplication with OpenAI embeddings + Pinecone
+- Wrote the team's prompt-injection red-team checklist, still in use
+
+EDUCATION
+B.S. Computer Science, Georgia Institute of Technology — Dec 2024
+GPA 3.7 · Coursework: Machine Learning, NLP, Distributed Systems
+
+SKILLS
+Python, TypeScript, SQL · OpenAI & Anthropic APIs, Vercel AI SDK,
+LangChain · pgvector, Pinecone · Zod, Pydantic · Docker, GitHub Actions,
+promptfoo

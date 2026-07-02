@@ -1,0 +1,39 @@
+SOFIA REYES
+Miami, FL • 786-555-0121 • sofia.reyes.data@outlook.com
+linkedin.com/in/sofiareyes-data
+
+OBJECTIVE
+Data analyst (4 years) making a deliberate transition into AI engineering.
+Strong Python and SQL foundations; currently building LLM skills through
+coursework and personal projects.
+
+CORE SKILLS
+Python (pandas, scikit-learn)     [#####----]
+SQL                               [#########]
+Tableau / Power BI                [########-]
+Classical machine learning        [####-----]
+LLM APIs                          [##-------]  (personal projects only)
+TypeScript                        [---------]
+
+EXPERIENCE
+
+Data Analyst II — Solara Insurance, Miami, FL — Jan 2024 – Present
+• Built and shipped a customer-churn model (scikit-learn, AUC 0.81) used
+  monthly by the retention team
+• Automated regulatory reporting pipelines in Python, saving ~20 hrs/week
+  across the team
+• Partner analyst to the pricing actuarial group
+
+Data Analyst — Solara Insurance, Miami, FL — Jun 2022 – Dec 2023
+• Dashboards (Tableau), ad-hoc SQL analysis, A/B test readouts
+
+PROJECTS
+• Personal-expense categorizer calling the OpenAI API from a Python script.
+  Single prompt, no retries or evals yet — building it to learn.
+
+CERTIFICATIONS
+• DeepLearning.AI, "Generative AI for Everyone" — 2026
+• Google Data Analytics Professional Certificate — 2022
+
+EDUCATION
+B.A. Economics, Florida International University, 2022

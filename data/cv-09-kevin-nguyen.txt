@@ -1,0 +1,34 @@
+KEVIN NGUYEN
+San Jose, CA | 408.555.0173 | kevin.nguyen.it@gmail.com
+
+IT SUPPORT SPECIALIST
+
+SUMMARY
+Four years of helpdesk and desktop support experience in healthcare and
+staffing environments. Recently completed Google's "AI Essentials"
+certificate and looking to break into the AI field.
+
+EXPERIENCE
+
+IT Support Specialist II
+Bayview Medical Group, San Jose, CA | Feb 2024 - Present
+Handle Tier 1/2 tickets for a 300-employee medical group: Windows 11,
+Microsoft 365, Active Directory password resets, printer and VPN issues.
+Average 30 tickets/day at 94% SLA compliance. Deploy and image laptops
+through Intune. Wrote the new-hire equipment setup guide.
+
+IT Support Technician (contract)
+TechBridge Staffing, various client sites, San Jose, CA | 2022 - 2024
+Desktop support, hardware refreshes, O365 migrations for three client
+companies.
+
+CERTIFICATIONS
+CompTIA A+ (2022) | CompTIA Network+ (2023) | Google AI Essentials (2026)
+
+EDUCATION
+A.S. Information Technology, De Anza College, 2022
+
+SKILLS
+Windows 10/11, Microsoft 365 admin, Active Directory, Intune, basic
+PowerShell scripting, ticketing (Zendesk, ServiceNow). Use ChatGPT to
+draft ticket responses and troubleshooting steps.

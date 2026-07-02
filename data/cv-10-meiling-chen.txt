@@ -1,0 +1,39 @@
+MEI-LING CHEN
+Pittsburgh, PA | +1 (412) 555-0179 | mchen.ml@andrew.cmu.edu
+github.com/meilingc | Citizenship: Taiwan (F-1 OPT; will require H-1B
+sponsorship)
+
+EDUCATION
+
+M.S. Machine Learning, Carnegie Mellon University            May 2025
+GPA 3.9/4.0
+
+B.S. Computer Science, National Taiwan University            Jun 2023
+
+EXPERIENCE
+
+AI Engineering Intern — Relay Systems (agentic automation    Jun – Dec 2025
+startup), Pittsburgh, PA
+- Built tool-calling agent workflows (LangGraph); enforced structured
+  outputs with JSON Schema, cutting invalid tool-call rate from 11% to 1.2%
+- Designed an LLM-as-judge eval pipeline calibrated against human labels
+  (Cohen's κ = 0.74 on a 200-example agreement set)
+- Shipped in Python; contributed TypeScript fixes to the internal dashboard
+
+Graduate Research Assistant — CMU Language Technologies      Sep 2023 – May 2025
+Institute
+- Research on evaluating LLM factuality; fine-tuned and benchmarked open
+  models (Llama, Mistral) on the LTI A100 cluster
+- Co-authored an EMNLP 2024 workshop paper (oral presentation)
+
+PUBLICATION
+
+Chen, M., Gupta, R., Novak, P. "Calibrating LLM judges against expert
+annotation: a case study in factuality scoring." EMNLP 2024 Workshop on
+Evaluation of Generative Models (oral).
+
+SKILLS
+
+Python, PyTorch, Hugging Face Transformers · prompt engineering, LLM
+evaluation, LLM-as-judge calibration · basic TypeScript · SQL · Docker,
+Weights & Biases, Slurm

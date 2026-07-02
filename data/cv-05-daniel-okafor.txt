@@ -1,0 +1,31 @@
+# Daniel Okafor
+**Machine Learning Engineer** — London, UK
++44 7700 900456 · d.okafor@outlook.com · github.com/dokafor-ml
+Right to work: UK Skilled Worker visa (valid to 2028)
+
+## Experience
+
+### ML Engineer — Ferrum Financial, London — Mar 2024 – Present
+- Built LLM-powered transaction-dispute triage: classification + structured
+  extraction with GPT-4o, with a fine-tuned Llama-3-8B (LoRA) fallback that
+  handles 60% of volume at ~1/9 the cost
+- Wrote the offline eval harness: 500 gold-labelled disputes, per-release
+  precision/recall tracking; it has blocked two regressions from shipping
+- RAG over 900 pages of card-scheme policy documents; migrated Pinecone →
+  pgvector, cutting retrieval infra cost ~70% with no measured recall loss
+- Services in Python (FastAPI); internal review UI in TypeScript/React
+
+### Software Engineer — Kestrel Systems, Lagos, Nigeria — Sep 2022 – Feb 2024
+- Backend services in Python/Django for a payments platform (2M users)
+- Owned reconciliation pipeline; reduced settlement mismatches 40%
+
+## Education
+B.Eng. Computer Engineering, University of Lagos, 2022
+
+## Skills
+Python, TypeScript, SQL · PyTorch, LoRA/QLoRA fine-tuning · OpenAI &
+Anthropic APIs · Pinecone, pgvector · Docker, AWS, GitHub Actions ·
+promptfoo
+
+## Open source
+Maintainer of `disputekit` (dispute-taxonomy eval dataset, 300+ stars)

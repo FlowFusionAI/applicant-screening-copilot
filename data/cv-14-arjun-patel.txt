@@ -1,0 +1,38 @@
+ARJUN PATEL
+Toronto, ON, Canada | +1 (416) 555-0187 | arjun.patel.ds@gmail.com
+linkedin.com/in/arjunpatel-ds | Canadian citizen
+
+PROFILE
+
+Data scientist with 3+ years of experience shipping classical ML systems
+for e-commerce. Deep Python and modeling fundamentals; beginning to apply
+them to generative AI.
+
+TECHNICAL SKILLS
+
+Languages:   Python (expert), SQL (expert), R (working)
+ML:          XGBoost, LightGBM, scikit-learn, Prophet, feature
+             engineering, model monitoring, A/B testing
+Cloud/Data:  GCP (BigQuery, Vertex AI), dbt, Airflow
+GenAI:       Personal experimentation with the OpenAI API and local Llama
+             models (Ollama); no production LLM work yet
+
+EXPERIENCE
+
+Data Scientist — Northcart (e-commerce), Toronto, ON
+Apr 2023 – Present
+- Demand forecasting (LightGBM) across 40,000 SKUs; improved MAPE from
+  22% to 14%, directly reducing stockouts
+- Built uplift model for promotion targeting; +$2.1M incremental annual
+  revenue, validated by A/B test
+- Own model-monitoring dashboards (drift, calibration); mentor two junior
+  analysts
+
+Data Science Intern — RBC, Toronto, ON
+May 2022 – Aug 2022
+- Anti-money-laundering feature engineering on transaction graphs
+
+EDUCATION
+
+M.Sc. Statistics, University of Waterloo — 2022
+B.Sc. Mathematics, University of Toronto — 2020
