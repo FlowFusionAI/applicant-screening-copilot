@@ -2,6 +2,7 @@ import { z } from 'zod';
 
 // 1. The schema — this is a contract AND a prompt, simultaneously
 const criterionSchema = z.object({
+    id: z.string().describe("Stable id, e.g C1, C2, C3"),
     name: z.string().describe("Human readable label"),
     evidenceGuidance: z.string().describe("What CV evidence would satisfy this criterion."),
     mustHave: z.boolean().describe("the job description's must have requirements"),
@@ -12,7 +13,7 @@ const criterionSchema = z.object({
 const criterionScoreSchema = z.object({
     criterionId: z.string().describe("copy the id of the criterion you are scoring, exactly as given in the rubric"),
     evidenceQuotes: z.array(z.string()).max(3).describe("quotes copied word-for-word from the CV, and return an empty list if there's no evidence"),
-    reasoning: z.string().describe("reasoning of the score"),
+    reasoning: z.string().describe("one or two sentences explaining why the quotes justify the level"),
     level: z.enum(['no_evidence', 'weak', 'moderate', 'strong'])
 })
 
