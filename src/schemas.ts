@@ -2,7 +2,6 @@ import { z } from 'zod';
 
 // 1. The schema — this is a contract AND a prompt, simultaneously
 const criterionSchema = z.object({
-    id: z.string().describe("Stable id, e.g C1, C2, C3"),
     name: z.string().describe("Human readable label"),
     evidenceGuidance: z.string().describe("What CV evidence would satisfy this criterion."),
     mustHave: z.boolean().describe("the job description's must have requirements"),

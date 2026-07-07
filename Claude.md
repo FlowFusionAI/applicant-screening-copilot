@@ -21,5 +21,9 @@ plumbing, synthetic data in data/, README formatting, tests.
 - Structured outputs via Vercel AI SDK generateObject + Zod, GPT-4o-mini
 - No persistent storage anywhere — CVs processed in memory only
 - Honest metrics only; never invent numbers
+- Docs split: README.md is a concise recruiter/hiring-manager-facing
+  showcase (what it does, architecture, tech stack, key features).
+  Engineering detail — design decisions, run observations, phase notes —
+  lives in docs/. Both are CHROME.
 - After each phase, when asked to "quiz me", act as a skeptical interviewer:
   5 questions on what was just built, grill weak answers, no softballs.
